@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0202-happy-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
