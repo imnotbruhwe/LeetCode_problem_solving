@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0326-power-of-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
