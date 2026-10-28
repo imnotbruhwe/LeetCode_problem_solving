@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0217-contains-duplicate) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
