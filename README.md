@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0509-fibonacci-number) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Tree
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
 ## Interactive
