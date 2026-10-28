@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0709-to-lower-case) |
 ## Stack
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
