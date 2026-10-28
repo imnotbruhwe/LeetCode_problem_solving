@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
