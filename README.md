@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Tree
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
