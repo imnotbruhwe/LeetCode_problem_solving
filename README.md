@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
