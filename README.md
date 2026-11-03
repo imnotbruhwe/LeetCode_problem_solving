@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
+| [1732-find-the-highest-altitude](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1732-find-the-highest-altitude) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
