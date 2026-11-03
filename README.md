@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0709-to-lower-case) |
+| [1189-maximum-number-of-balloons](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
+| [1189-maximum-number-of-balloons](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
