@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
 | [1732-find-the-highest-altitude](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Tree
 |  |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1732-find-the-highest-altitude) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
