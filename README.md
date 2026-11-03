@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0709-to-lower-case) |
+| [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0258-add-digits) |
+| [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
