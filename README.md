@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
 | [1732-find-the-highest-altitude](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
