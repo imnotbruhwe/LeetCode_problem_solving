@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0804-unique-morse-code-words) |
+| [0844-backspace-string-compare](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0844-backspace-string-compare](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0844-backspace-string-compare) |
 | [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
