@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0804-unique-morse-code-words) |
 | [1189-maximum-number-of-balloons](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3838-weighted-word-mapping) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0804-unique-morse-code-words) |
 | [1189-maximum-number-of-balloons](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0804-unique-morse-code-words](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0804-unique-morse-code-words) |
 | [1732-find-the-highest-altitude](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
