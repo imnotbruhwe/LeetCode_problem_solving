@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0389-find-the-difference) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Linked List
 |  |
 | ------- |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
