@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1732-find-the-highest-altitude](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/imnotbruhwe/LeetCode_problem_solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Interactive
 |  |
 | ------- |
